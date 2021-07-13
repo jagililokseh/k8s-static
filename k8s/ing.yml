@@ -12,5 +12,5 @@ spec:
      paths:
      - path:
        backend:
-         serviceName: k8s-sttatic-svc
+         serviceName: k8s-static-svc
          servicePort: 80
